@@ -1,5 +1,10 @@
+# Important
+Next year, I will temporarily stop or pause all my projects because I am currently studying grade 12 and preparing for the baccalaureate exam. I will resume once I pass the exam but idk yet. Do not worry because all of the services will not be shut down and still be monitored by me also I am regularly replying to all of the emails and issues also reviewing pull requests as usual. 
+
+I hope you guys understand me...
+
 ## Hello
-My name is Norin Chamroeun and Im 17 years old that love programming, music and other stuff that im interested in...
+My name is Norin Chamroeun and I'm 18 years old from Cambodia. I love programming, music, and other stuff that I'm interested in...
 
 [![](https://visitcount.itsvg.in/api?id=nyt92&icon=1&color=12)](https://visitcount.itsvg.in)
 
