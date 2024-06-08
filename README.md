@@ -39,4 +39,4 @@ My name is Norin Chamroeun and I'm 18 years old from Cambodia. I love programmin
 ### Also ENGLISH IS NOT MY FIRST LANGUAGE
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/NYT92/nyt92-blog/blob/new/public%2Fnyt92banner2.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 90vw; opacity: 0.5; background: url('https://github.com/NYT92/nyt92-blog/blob/new/public%2Fnyt92banner2.jpg?raw=true');]{x0000}$}
